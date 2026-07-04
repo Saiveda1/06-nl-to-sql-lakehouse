@@ -35,7 +35,7 @@ execution path.
 
 - Prepared for **Sai Veda**
 - Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.md`](./PROJECT_DOCUMENT.md)
+- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
