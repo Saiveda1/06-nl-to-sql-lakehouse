@@ -31,11 +31,9 @@ execution path.
 > [ARCHITECTURE.md](ARCHITECTURE.md)). 1B numbers are extrapolations from the
 > measured per-row footprint, clearly labeled as such.
 
-## Project Document
+## Project Brief
 
-- Prepared for **Sai Veda**
-- Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
